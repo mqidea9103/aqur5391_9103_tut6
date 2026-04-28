@@ -27,3 +27,11 @@ This is my first local change to the repo!
 ![An image of a cat](https://placecats.com/200/300)
 
 ![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+
+```
+function helloWorld() {
+    console.log("hello, world!");
+}
+```
+
+> This is a blockquote.
